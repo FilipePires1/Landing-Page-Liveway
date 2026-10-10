@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 720" width="640" height="720" role="img" aria-label="Ilustração de escritório institucional">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2=".35" y2="1">
+      <stop offset="0" stop-color="#F4F2EC"/>
+      <stop offset=".55" stop-color="#E6E3DA"/>
+      <stop offset="1" stop-color="#D5D2C7"/>
+    </linearGradient>
+    <linearGradient id="swall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EDEAE2"/>
+      <stop offset="1" stop-color="#DAD6CC"/>
+    </linearGradient>
+    <linearGradient id="spanel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2C3823"/>
+      <stop offset="1" stop-color="#1A2118"/>
+    </linearGradient>
+    <linearGradient id="slight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D9B652" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#D9B652" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="640" height="720" fill="url(#sbg)"/>
+
+  <path d="M60 0 250 0 60 420Z" fill="url(#slight)"/>
+  <path d="M420 0 540 0 640 240 640 90Z" fill="url(#slight)" opacity=".6"/>
+
+  <rect x="0" y="0" width="640" height="520" fill="url(#swall)"/>
+
+  <g>
+    <rect x="58" y="70" width="250" height="300" rx="4" fill="#CFD4CC"/>
+    <rect x="70" y="82" width="226" height="276" fill="#B9C0B6"/>
+    <g stroke="#EDEAE2" stroke-width="7">
+      <path d="M183 82v276M70 220h226"/>
+    </g>
+    <rect x="58" y="70" width="250" height="300" rx="4" fill="none" stroke="#A9A598" stroke-width="3"/>
+  </g>
+
+  <g>
+    <rect x="352" y="110" width="230" height="180" rx="6" fill="url(#spanel)"/>
+    <g fill="none" stroke="#D9B652" stroke-opacity=".55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M376 250 418 216 452 232 494 176 536 196 560 152"/>
+    </g>
+    <circle cx="560" cy="152" r="5" fill="#D9B652" fill-opacity=".8"/>
+    <g fill="#D9B652" fill-opacity=".35">
+      <rect x="376" y="132" width="12" height="16"/><rect x="398" y="132" width="12" height="16"/>
+      <rect x="376" y="156" width="12" height="16"/>
+    </g>
+  </g>
+
+  <rect x="0" y="500" width="640" height="220" fill="#CFCBC0"/>
+  <path d="M0 500h640" stroke="#A9A598" stroke-width="2"/>
+
+  <g>
+    <rect x="96" y="430" width="448" height="22" rx="4" fill="#B0AA9C"/>
+    <rect x="118" y="452" width="18" height="90" fill="#9C9689"/>
+    <rect x="504" y="452" width="18" height="90" fill="#9C9689"/>
+  </g>
+
+  <g fill="#EFEDE6" stroke="#A9A598" stroke-width="1.5">
+    <rect x="150" y="400" width="110" height="30" rx="3"/>
+    <rect x="286" y="392" width="86" height="38" rx="3"/>
+  </g>
+  <g stroke="#B7B2A5" stroke-width="2">
+    <path d="M164 412h82M164 420h60"/>
+    <path d="M300 404h58M300 414h44M300 422h30"/>
+  </g>
+
+  <g>
+    <rect x="418" y="352" width="14" height="78" fill="#8E8A7F"/>
+    <g fill="#5F6B52">
+      <ellipse cx="425" cy="336" rx="30" ry="16"/>
+      <ellipse cx="404" cy="348" rx="20" ry="12"/>
+      <ellipse cx="446" cy="348" rx="20" ry="12"/>
+      <ellipse cx="425" cy="318" rx="20" ry="12"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="60" y="560" width="120" height="160" rx="6" fill="#BDB8AA"/>
+    <rect x="470" y="540" width="120" height="180" rx="6" fill="#B3AEA0"/>
+    <g fill="#DAD6CC">
+      <rect x="76" y="580" width="88" height="10"/><rect x="76" y="604" width="88" height="10"/>
+      <rect x="486" y="562" width="88" height="10"/><rect x="486" y="586" width="88" height="10"/>
+    </g>
+  </g>
+</svg>
